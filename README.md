@@ -19,7 +19,7 @@ Orbital | Apr 2025 – Present
 Darwinium | Sep 2022 – Apr 2025
 
 - Led development of fraud detection frontend, UI, dashboards, and data visualization.
-- Shaped engineering practices for modern React state management and CSS modules.
+- Shaped engineering practices for modern React state management, UI and data visualization libraries, and CSS modules.
 - Collaborated with cross-functional teams to deliver business-critical solutions.
 
 **Digital Architect & Head of Software**
