@@ -4,7 +4,7 @@
 
 Pragmatic AI and full-stack engineer with a track record of shipping production-ready applications. I thrive on building reliable, observable systems with rapid iteration and tight feedback loops. Skilled in context engineering, evals, and shaping clean UIs for real-world impact. Based in Christchurch, I’m passionate about leveraging AI to streamline complex workflows and deliver measurable outcomes.
 
-[LinkedIn](https://www.linkedin.com/in/johansteenkamp/) | [GitHub](https://github.com/jsteenkamp/resume)
+[LinkedIn](https://www.linkedin.com/in/johansteenkamp/) | [GitHub](https://github.com/jsteenkamp/about-me)
 
 ## Experience
 
