@@ -1,8 +1,8 @@
 
-## Example Projects
+# Example Projects
 
 Some examples of applications and components I've built.
-### Deep Search
+## Deep Search
 
 [Building a Production-Ready Deep Search Application: Architecture, Evals, and Telemetry](https://www.linkedin.com/pulse/building-production-ready-deep-search-application-evals-steenkamp-dbsyc/)
 
@@ -26,9 +26,9 @@ Some examples of applications and components I've built.
 
  **Deep Search Engineering Observability** — Platform provides continuous observability with traces, evals and provides prompt management and metrics for continual improvement.
 
-### Darwinium Frontend
+## Darwinium Frontend
 
-Views and components built for Darwinium Aphex frontend application
+Views and components built for Darwinium Aphex frontend application.
 
 ![Interactive Network Graphs](attachments/resume-darwinium-1.jpeg)
 
@@ -36,15 +36,15 @@ Interactive Network Graphs with custom nodes, grouping and filtering
 
 ![Dashboard Cards](attachments/resume-darwinium-2.jpeg)
 
-Dashboard Cards with configurable components including charts and data grids
+Dashboard Cards with configurable components including data selectioon and filtering, chart types and data grids
 
 ![Dashboards with configurable tabs](attachments/resume-darwinium-3.jpeg)
 
-Dashboards with user configurable tabs, resizable panels, and layout
+Dashboards with user configurable tabs, resizable panels, panel layouts, and dashboard tab layouts
 
-### Mersen R-TOOLS MAXX
+## Mersen R-TOOLS MAXX
 
-[R-TOOLS MAXX Air and Liquid Cooled Heat Sink Selector Tool](https://www.mersen.com/en/resources/r-tools-maxx-air-and-liquid-cooled-heat-sink-selector-tool) is a online tool for simulating and selecting air or liquid-cooled heat sinks.
+[R-TOOLS MAXX Air and Liquid Cooled Heat Sink Selector Tool](https://www.mersen.com/en/resources/r-tools-maxx-air-and-liquid-cooled-heat-sink-selector-tool) is a online tool for designing and simulating the performance of air and liquid-cooled heat sinks.
 
 AWS tech stack: Amplify (React), Cognito, S3, DynamoDB, Lambda
 
