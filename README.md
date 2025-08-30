@@ -1,52 +1,57 @@
 # Johan Steenkamp
 
-## Profile
+## Summary
 
-I create smart apps, agents, and automations that help teams work faster and achieve more.
-
-I’m an experienced React developer with a background in designing and building full-stack applications, including design tools, data visualizations, and business apps. Lately, I’ve been focused on Agentic UI and bringing AI into applications.
-
-Toolkit: AI SDK, Mastra, MCP, LangGraph, React, Next.js, TanStack, AntD, AntV (G2, G6), GraphQL, AWS.
-
-Outside of tech, I’m an avid cyclist and love the outdoors.
-
-[LinkedIn](https://www.linkedin.com/in/johansteenkamp/) | [GitHub](https://github.com/jsteenkamp/about-me)
+An experienced and forward-thinking Principal Engineer with over a decade of experience in designing and building full-stack applications, with a strong focus on modern frontend technologies. Proven ability to lead and shape engineering practices, deliver complex solutions, and align technical strategy with business goals. Adept at full-stack development using React, Next.js, and TypeScript, with recent experience building AI-powered applications, agents, and automations.
 
 ## Experience
 
-**AI Application Engineer**
-Orbital | Apr 2025 – Present
+### AI Application Engineer
+**Orbital** | Self-employed
+_Apr 2025 – Present_
 
-- Design and build AI-powered products and agentic workflows for business automation.
-- Integrate APIs, data models, and eval harnesses for reliable autonomous agents.
-- Focus on document intelligence, workflow augmentation, and automations.
+* Building AI-powered applications, agents, and automations that accelerate product delivery and drive meaningful outcomes.
+* Focused on Agentic UI and bringing AI into applications.
+* Integrate APIs, data models, and eval harnesses for reliable document intelligence, workflow augmentation, and autonomous agents.
 
-**Principal Frontend Engineer**
-Darwinium | Sep 2022 – Apr 2025
+### Principal Frontend Engineer
+**Darwinium** | Full-time
+_Sep 2022 – Apr 2025_
 
-- Led development of fraud detection frontend, UI, dashboards, and data visualization.
-- Shaped engineering practices for modern React state management, UI and data visualization libraries, and CSS modules.
-- Collaborated with cross-functional teams to deliver business-critical solutions.
+* Led development of the fraud detection frontend, UI, dashboards, and data visualization.
+* Shaped engineering practices for modern React state management, UI and data visualization libraries, and CSS modules.
+* Collaborated with cross-functional teams to deliver business-critical solutions.
 
-**Digital Architect & Head of Software**
-Syft Technologies | Jan 2022 – Sep 2022; May 2019 – Dec 2021
+### Digital Architect & Head of Software
+**Syft Technologies** | Full-time
+_May 2018 – Sep 2022_
 
-- Drove digital strategy, platform architecture, and cloud/on-prem data solutions.
-- Led teams delivering IoT, analytics, and digital twin projects for industrial and environmental markets.
-- Established standards for software delivery, monitoring, and continuous improvement.
+* Responsible for the end-to-end process of driving, building, and improving Syft’s Digital Infrastructure and Digital Strategy.
+* Led the development and implementation of the software strategy, building and growing strong teams.
+* Architected and re-architected monolithic products into layered architectures using modern application approaches (cloud, services, messaging).
+* Established core Data and Instrument platform teams and delivered a production-ready Data Platform on AWS.
+* Active developer in full-stack applications using React, GraphQL, AWS Amplify, and Next.js.
 
-**Principal Engineer**
-Telstra, Cognevo, Wynyard | 2014 – 2018
+### Principal Engineer
+**Wynyard, Cognevo, & Telstra** | Full-time
+_Aug 2014 – Apr 2018_
 
-- Architected and delivered full-stack and frontend solutions for security, analytics, and data visualization.
-- Introduced modern frameworks (React, GraphQL) and improved developer experience.
-- Built reusable components and scalable UIs for enterprise clients.
+* Served as Principal Engineer and Application Architect for multiple technology companies, focusing on frontend and UI architecture.
+* Led the development of data visualization frontends for security products using a modern stack, including React, Redux, and GraphQL.
+* Developed reusable UI components and designed application APIs to allow end-user configuration of the frontend.
+* Actively drove the adoption of GraphQL as a core part of the tech stack.
+* Provided technical expertise and consulting services to internal product development teams, including code reviews and architecture design.
 
 ## Skills
 
-- AI: Mastra, LangChain, LangGraph, Model Context Protocol (MCP), Evals
-- Full-stack: Next.js, React, Node.js, TypeScript
-- Data: SQLite, Postgres, DynamoDB, AWS
+* **Frontend:** React, Next.js, TypeScript, CSS, GraphQL, TanStack, AntD, AntV (G2, G6)
+* **Backend:** Node.js, AWS, DynamoDB, Postgres
+* **AI:** AI SDK, Mastra, LangGraph, Model Context Protocol (MCP)
+
+## Education
+
+**BSc Eng (Electronics)**
+University of Cape Town
 
 ## Example Projects
 
@@ -55,10 +60,4 @@ Telstra, Cognevo, Wynyard | 2014 – 2018
 - **Syft Instrument Health**: Mass Spectrometry instrument performance monitoring.
 - **Mersen R-TOOLS MAXX**: Heat sink simulation tool (React/AWS stack) for engineering design.
 
-[View detailed project screenshots and descriptions →](example-projects.md)
-
-
-## Education
-
-**BSc Eng (Electronics)**
-University of Cape Town
+[Project Descriptions and Screenshots →](example-projects.md)
