@@ -2,7 +2,7 @@
 
 ## Profile
 
-AI Application Engineer — I create smart apps, agents, and automations that help teams work faster and achieve more.
+I create smart apps, agents, and automations that help teams work faster and achieve more.
 
 I’m an experienced React developer with a background in designing and building full-stack applications, including design tools, data visualizations, and business apps. Lately, I’ve been focused on Agentic UI and bringing AI into applications.
 
