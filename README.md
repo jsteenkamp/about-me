@@ -2,7 +2,7 @@
 
 ## Summary
 
-An experienced and forward-thinking Principal Engineer with over a decade of experience in designing and building full-stack applications, with a strong focus on modern frontend technologies. Proven ability to lead and shape engineering practices, deliver complex solutions, and align technical strategy with business goals. Adept at full-stack development using React, Next.js, and TypeScript, with recent experience building AI-powered applications, agents, and automations.
+An experienced and forward-thinking engineer with over a decade of experience in designing and building full-stack applications, with a strong focus on modern frontend technologies. Proven ability to lead and shape engineering practices, deliver complex solutions, and align technical strategy with business goals. Adept at full-stack development using React, Next.js, TanStack, and TypeScript, with recent experience building AI-powered applications, agents, and automations.
 
 ## Experience
 
@@ -58,6 +58,6 @@ University of Cape Town
 - **Deep Search**: Production-grade search app with evals, observability, and prompt management.
 - **Darwinium Frontend**: Fraud detection UI with interactive dashboards and network graphs.
 - **Syft Instrument Health**: Mass Spectrometry instrument performance monitoring.
-- **Mersen R-TOOLS MAXX**: Heat sink simulation tool (React/AWS stack) for engineering design.
+- **Mersen R-TOOLS MAXX**: Heat sink design and thermal simulation tool.
 
 [Project Descriptions and Screenshots →](example-projects.md)
