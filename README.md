@@ -1,3 +1,9 @@
+---
+title: "Johan Steenkamp"
+description: "Experienced engineer with over a decade of experience in full-stack applications, AI-powered solutions, and modern frontend technologies."
+date: "2025-01-27"
+---
+
 # Johan Steenkamp
 
 ## Summary
@@ -53,11 +59,17 @@ _Aug 2014 – Apr 2018_
 **BSc Eng (Electronics)**
 University of Cape Town
 
+## LinkedIn
+
+[LinkedIn Profile](https://www.linkedin.com/in/johansteenkamp/)
+
 ## Example Projects
+
+Examples of the applications I've built:
 
 - **Deep Search**: Production-grade search app with evals, observability, and prompt management.
 - **Darwinium Frontend**: Fraud detection UI with interactive dashboards and network graphs.
 - **Syft Instrument Health**: Mass Spectrometry instrument performance monitoring.
 - **Mersen R-TOOLS MAXX**: Heat sink design and thermal simulation tool.
 
-[Project Descriptions and Screenshots →](example-projects.md)
+[Descriptions and Screenshots of Example Applications](example-projects.md)
