@@ -1,7 +1,7 @@
 ---
 title: "Example Projects"
-description: "A showcase of applications and components I've built, including AI-powered search, fraud detection interfaces, and thermal simulation tools."
-date: "2025-01-27"
+description: "A showcase of applications and components I've built, including AI-powered deep search, fraud detection dashboards and data visualizations, and thermal design and simulation tools."
+date: "2025-08-05"
 ---
 
 # Example Projects
@@ -71,7 +71,7 @@ Tech Stack: React (AWS Amplify), Python GraphQL API, AWS data stack
 
 ![Instrument Fleet](attachments/syft/syft-ihm-16.png)
 
-**Instrument Quick View** — Easily see more details for the reagent of a specific instrument from the fleet list view. 
+**Instrument Quick View** — Easily see more details for the reagent of a specific instrument from the fleet list view.
 
 
 ![Instrument Fleet](attachments/syft/syft-ihm-10.png)
@@ -91,7 +91,7 @@ Tech Stack: React (AWS Amplify), Cognito, S3, DynamoDB, Lambda
 
 ![Projects List](attachments/mersen/mersen-r-tools-maxx-1.png)
 
-**Projects List** — List of all the user's designs and summary of key parameters 
+**Projects List** — List of all the user's designs and summary of key parameters
 
 
 ![AquaFlow heat source layout](attachments/mersen/mersen-r-tools-maxx-4.png)
